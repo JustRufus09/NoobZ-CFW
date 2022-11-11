@@ -27,4 +27,4 @@ The ultimate NX CFW package for the ultimate noob
 
 6 There is no step 6!
 
-# Uploading all the files is too stressy for me so please, don't except fast updates!
+# Don't except fast updates!
