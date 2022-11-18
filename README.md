@@ -17,7 +17,7 @@ The ultimate NX CFW package for the ultimate noob
 
 # PLS, FOLOW THIS GUIDE IF YOU WANT THE SIGPACHES TO WORK
 
-0(Optional, but reccomended) Go to ismyswitchpatched.com and select the prefix of your Switch S/N and the 1st 6 digits(should be on the bottom of your switch)
+0 (Optional, but reccomended) Go to ismyswitchpatched.com and select the prefix of your Switch S/N and the 1st 6 digits(should be on the bottom of your switch)
 
 1 Put the stuff into your switch SD card(4 GB minimum!!!) and put the Hekate payload .bin file onto your desktop!
 
