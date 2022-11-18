@@ -31,4 +31,4 @@ The ultimate NX CFW package for the ultimate noob
 
 6 There is no step 6!
 
-# Don't except fast updates!
+# I'll update the pack every month. No update requests!
