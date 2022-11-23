@@ -25,7 +25,7 @@ The ultimate NX CFW package for the ultimate noob
 
 3 Inject the hekate payload (https://github.com/eliboa/TegraRcmGUI/releases/), select payloads and choose Lockpick_RCM.bin!
 
-4 Dump the keys and reboot into hekate!
+4 Dump the keys and reboot to hekate!
 
 5 Back to Hekate, select Launch and NoobZ CFW!
 
