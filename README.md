@@ -23,7 +23,7 @@ The ultimate NX CFW package for the ultimate noob
 
 2 Put your Switch into RCM mode. (Just google how to, i'm using the tinfoil trick, but it's safer to buy a RCM dongle on Amazon or ebay)
 
-3 Inject the hekate payload, select payloads and choose Lockpick_RCM.bin!
+3 Inject the hekate payload (https://github.com/eliboa/TegraRcmGUI/releases/), select payloads and choose Lockpick_RCM.bin!
 
 4 Dump the keys and reboot into hekate!
 
